@@ -4,7 +4,7 @@
 
 * emails: 
   * DaniilYarmolenko@gmail.com
-  * Daniil.Yarmolenko@student.msu.ru
+  * Daniil.Yarmolenko@student.msu.ru (if something is urgent)
 * telegram: @DaniilYarmolenko
 * discord: DaniilYarmolenko#0213
 
