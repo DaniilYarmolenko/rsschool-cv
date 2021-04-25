@@ -34,4 +34,4 @@ no experience in production (JunJun 😂)
   Sometimes I'm ashamed to admit it - I'm a pirate ☠️ I took courses from otus, geekbrains, and yandex. But the main disadvantage in my method is the lack of mentors and support. Sometimes it is difficult to force yourself to go to the goal and jump to another topic (I studied it even Vapor 😳).
 
 ## English
-My weakest point... My level is probably under-intermediate. Online translator as a drug - I can't retrain. I study English every day.
+My weakest point... My level is probably pre-intermediate. Online translator as a drug - I can't retrain. I study English every day.
