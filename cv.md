@@ -15,7 +15,7 @@
 I have a lot of ideas for geological (petroleum and hydrogeology) software.
 
 ## My skills (programming)
-no experience in production (JunJun :smile: )
+no experience in production (JunJun 😂)
 * C
 * Swift
   * including basic SwiftUI
@@ -31,7 +31,7 @@ no experience in production (JunJun :smile: )
 
 ## Education
   I think that it is not necessary to write about geological education :relieved:
-  Sometimes I'm ashamed to admit it - I'm a pirate :pirate_flag: I took courses from otus, geekbrains, and yandex. But the main disadvantage in my method is the lack of mentors and support. Sometimes it is difficult to force yourself to go to the goal and jump to another topic (I studied it even Vapor :hot_face:).
+  Sometimes I'm ashamed to admit it - I'm a pirate ☠️ I took courses from otus, geekbrains, and yandex. But the main disadvantage in my method is the lack of mentors and support. Sometimes it is difficult to force yourself to go to the goal and jump to another topic (I studied it even Vapor 😳).
 
 ## English
 My weakest point... My level is probably under-intermediate. Online translator as a drug - I can't retrain. I study English every day.
