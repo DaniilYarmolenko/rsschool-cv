@@ -1,2 +1,2 @@
 # rsschool-cv
-RSS school zero task
+https://DaniilYarmolenko.github.io/rsschool-cv/cv
